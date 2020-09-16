@@ -32,6 +32,18 @@ Nicolás Hdz. Ynurreta García A01284528
 - ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
 - ¿Qué problemática o necesidad resuelve?
 
+## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/1280px-Oracle_logo_opt.png)
+(Aqui debemos poner el texto que conteste estas preguntas para Oracle)
+- ¿Qué empresa es? ¿En qué sector se encuentra?
+- ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
+- ¿Qué problemática o necesidad resuelve?
+
+## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/1280px-Oracle_logo_opt.png)
+(Aqui debemos poner el texto que conteste estas preguntas para Qualcom)
+- ¿Qué empresa es? ¿En qué sector se encuentra?
+- ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
+- ¿Qué problemática o necesidad resuelve?
+
 ## El modelo de uso de IoT seleccionado colaborativamente. (esto se removera al finalizar el llenado, apliquen el mismo formato que en las anteriores)
 - ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?
 - ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
