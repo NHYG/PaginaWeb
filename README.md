@@ -13,6 +13,11 @@ Favela....(llenar tus datos)
 
 Nicolás Hdz. Ynurreta García A01284528
 
+# OJO! En todas las empresas deberán poner un texto estructurado que conteste a todas las preguntas
+# no hacer uso del formato pregunta-respuesta (ustedes solo peguen su información como la hayan redactado
+# y para indicar donde debe haber un salto de parrafo haganlo agregando un '(/n)' yo sabre que significa 
+# y le dare la forma una vez que lo terminenen
+
 ## Todas las empresas identificadas individualmente con modelos probados de tecnología IoT.
 ## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/tesla-logo-2200x2800_opt.png)
 (Aqui debemos poner el texto que conteste estas preguntas para tesla)
@@ -21,9 +26,9 @@ Nicolás Hdz. Ynurreta García A01284528
 -¿Qué problemática o necesidad resuelve?
 ## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/att-logo1_opt.png)
 (Aqui debemos poner el texto que conteste estas preguntas para AT&T)
--¿Qué empresa es? ¿En qué sector se encuentra?
--¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
--¿Qué problemática o necesidad resuelve?
+- ¿Qué empresa es? ¿En qué sector se encuentra?
+- ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
+- ¿Qué problemática o necesidad resuelve?
 ## El modelo de uso de IoT seleccionado colaborativamente.
 ### ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?
 ### ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
