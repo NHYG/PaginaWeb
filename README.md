@@ -19,7 +19,7 @@ Nicolás Hdz. Ynurreta García A01284528
 -¿Qué empresa es? ¿En qué sector se encuentra?
 -¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
 -¿Qué problemática o necesidad resuelve?
-## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/tesla-logo-2200x2800_opt.png)
+## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/att-logo1_opt.png)
 (Aqui debemos poner el texto que conteste estas preguntas para AT&T)
 -¿Qué empresa es? ¿En qué sector se encuentra?
 -¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
