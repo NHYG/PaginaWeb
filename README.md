@@ -1,7 +1,8 @@
 # 1er Reporte de avances
-Tecnológico de Monterrey.
-TC1001S.2.
-Alex....(llenar tus datos).
+Tecnológico de Monterrey
+
+TC1001S.2
+Alex....(llenar tus datos)
 Hugo.....(llenar tus datos).
 Carlod.....(llenar tus datos).
 Favela....(llenar tus datos).
