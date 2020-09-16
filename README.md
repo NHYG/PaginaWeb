@@ -38,7 +38,7 @@ Nicolás Hdz. Ynurreta García A01284528
 - ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
 - ¿Qué problemática o necesidad resuelve?
 
-## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/1280px-Oracle_logo_opt.png)
+## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/qualcomlogo.png)
 (Aqui debemos poner el texto que conteste estas preguntas para Qualcom)
 - ¿Qué empresa es? ¿En qué sector se encuentra?
 - ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
@@ -53,4 +53,3 @@ Nicolás Hdz. Ynurreta García A01284528
 
 ## Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea. 
 ## yo sere quien llene esto ...(esto se removera al finalizar el llenado, apliquen el mismo formato que en las anteriores)
-theme: _config.yml
