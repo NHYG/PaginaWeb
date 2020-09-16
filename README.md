@@ -14,7 +14,7 @@ Favela....(llenar tus datos)
 Nicolás Hdz. Ynurreta García A01284528
 
 ## Todas las empresas identificadas individualmente con modelos probados de tecnología IoT.
-![Image](https://github.com/NHYG/PaginaWeb/blob/master/tesla-logo-2200x2800.png) 
+![Image](https://github.com/NHYG/PaginaWeb/blob/master/Tesla_T_symbol.svg.png) 
 ## Tesla 
 ### ¿Qué empresa es? ¿En qué sector se encuentra?
 ### ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
