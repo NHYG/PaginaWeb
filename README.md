@@ -41,4 +41,4 @@ Nicolás Hdz. Ynurreta García A01284528
 
 ## Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea. 
 ## yo sere quien llene esto ...(esto se removera al finalizar el llenado, apliquen el mismo formato que en las anteriores)
-theme: jekyll-theme-architect
+theme: _config.yml
