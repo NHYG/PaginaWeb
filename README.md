@@ -1,4 +1,11 @@
-## 1er Reporte de avances colaborativos
+## 1er Reporte de avances
+Tecnológico de Monterrey
+TC1001S.2
+Alex....(llenar tus datos)
+Hugo.....(llenar tus datos)
+Carlod.....(llenar tus datos)
+Favela....(llenar tus datos)
+Nicolás Hdz. Ynurreta García A01284528
 
 You can use the [editor on GitHub](https://github.com/NHYG/PaginaWeb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
