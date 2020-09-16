@@ -20,7 +20,7 @@ Nicolás Hdz. Ynurreta García A01284528
 
 ## Todas las empresas identificadas individualmente con modelos probados de tecnología IoT. (esto se removera al termianar el llenado)
 
-## ![Image](https://raw.githubusercontent.com/NHYG/PaginaWeb/master/assets/att-logo1_opt.png)
+## ![Image](https://github.com/NHYG/PaginaWeb/blob/master/tesla-logo-2200x2800_opt.png)
 (Aqui debemos poner el texto que conteste estas preguntas para tesla)
 -¿Qué empresa es? ¿En qué sector se encuentra?
 -¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
