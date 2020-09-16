@@ -2,17 +2,37 @@
 Tecnológico de Monterrey
 
 TC1001S.2
+
 Alex....(llenar tus datos)
-Hugo.....(llenar tus datos).
-Carlod.....(llenar tus datos).
-Favela....(llenar tus datos).
-Nicolás Hdz. Ynurreta García A01284528.
+
+Hugo.....(llenar tus datos)
+
+Carlod.....(llenar tus datos)
+
+Favela....(llenar tus datos)
+
+Nicolás Hdz. Ynurreta García A01284528
+
+## Todas las empresas identificadas individualmente con modelos probados de tecnología IoT.
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carlogos.org%2Fcar-brands%2Ftesla-logo.html&psig=AOvVaw2AZr3vTY0EWGpI6Utp2x7I&ust=1600312824904000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiisP7b7OsCFQAAAAAdAAAAABAD)
+## Tesla
+### ¿Qué empresa es? ¿En qué sector se encuentra?
+### ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
+### ¿Qué problemática o necesidad resuelve?
+## El modelo de uso de IoT seleccionado colaborativamente.
+### ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?
+### ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
+### ¿Cuál es la propuesta de valor para estos públicos?
+### ¿Cuál es el proceso que involucra a estos públicos?
+### ¿Qué datos se generan y registran durante este proceso?
+## Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea.
+
 
 You can use the [editor on GitHub](https://github.com/NHYG/PaginaWeb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Mardown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
